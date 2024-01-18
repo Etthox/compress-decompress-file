@@ -21,5 +21,5 @@ def decompress(inputfile,outputfile):
     file.close()
 
 
-decompress('compressed.txt','decompressed.txt')
+
 
